@@ -1,0 +1,6 @@
+Flask
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-Babel
+firebase-admin
+python-dotenv
