@@ -1,0 +1,8 @@
+msgid "Missing required fields!"
+msgstr "Missing required fields!"
+
+msgid "Registration successful."
+msgstr "Registration successful."
+
+msgid "Registration failed."
+msgstr "Registration failed."

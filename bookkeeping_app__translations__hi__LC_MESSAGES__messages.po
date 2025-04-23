@@ -1,0 +1,6 @@
+msgid "Missing required fields!"
+msgstr "आवश्यक फ़ील्ड्स गायब हैं!"
+
+msgid "Registration successful."
+msgstr "पंजीकरण सफल।"
+

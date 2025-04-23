@@ -1,0 +1,5 @@
+msgid "Missing required fields!"
+msgstr "అవసరమైన ఫీల్డ్‌లు తప్పిపోయాయి!"
+
+msgid "Registration successful."
+msgstr "పత్రికీకరణ విజయవంతం."
